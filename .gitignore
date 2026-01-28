@@ -1,0 +1,87 @@
+# .gitignore for C#/.NET projects
+## Created by Siphosenkosi for LibrarySystem
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2022 cache/options directory
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.xml
+
+# Packages
+packages/
+*.nupkg
+*.snupkg
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Local History for Visual Studio
+.localhistory/
+
+# Backup folder from Package Restore
+Backup*/
+
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+
+# VS Profiling data
+*.psess
+*.vsp
+*.vspx
+
+# ReSharper
+_ReSharper*/
+
+# MSTest
+*.TestLoad.xml
+
+# NVelocity
+*.build.cshtml
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dotnet tools
+.dotnet/
+
+# VS Code settings
+.settings/
